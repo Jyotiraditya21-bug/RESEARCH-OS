@@ -1,8 +1,8 @@
-# ResearchOS: Multi-Agent RAG Research Assistant
+# InSightForge: Multi-Agent RAG Research Assistant
 
 🚀 **Live Demo**: [https://research-os-nine.vercel.app](https://research-os-nine.vercel.app)
 
-ResearchOS is an AI-powered research platform that automates web searching, performs retrieval-augmented generation (RAG) using local vector embeddings, and generates source-cited markdown reports that stream in real time. 
+InSightForge is an AI-powered research platform that automates web searching, performs retrieval-augmented generation (RAG) using local vector embeddings, and generates source-cited markdown reports that stream in real time. 
 
 Powered by a sequential **LangGraph** multi-agent workflow, **FastAPI** Server-Sent Events (SSE) streaming, and a responsive **React** glassmorphic interface.
 
