@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?InSightForge — A self-correcting multi-agent research engine with persistent memory and side-by-side depth comparison.)](https://git.io/typing-svg)
+
 # InSightForge: Multi-Agent RAG Research Assistant
 
 🚀 **Live Demo**: https://insightforge-multi-agent.vercel.app
